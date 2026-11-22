@@ -1,7 +1,7 @@
 ---
 title: Hello Chirpy Blog
 date: 2026-11-21 21:37:00 +0800
-catagories: [BLOGPOST, RANDOM_THOUGHTS]
+catagories: [BLOG_POST, RANDOM_THOUGHTS]
 tags: [random,blog]
 ---
 
