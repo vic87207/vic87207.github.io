@@ -2,6 +2,7 @@
 layout: post
 title: Daily Practice Post
 date: 2026-11-22 18:32 -0500
+catagories: [BLOG_POST, TEST_POST]
 tag:[random,blog]
 ---
 
