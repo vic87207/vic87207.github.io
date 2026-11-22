@@ -13,4 +13,4 @@ Dooing random journaling.
 
 Maybe some pictures.
 
-![Lookatsage!](/assets/lib/sage_looking_cute.jpg)
+![Lookatsage!](/assets/img/sage_looking_cute.jpg)
