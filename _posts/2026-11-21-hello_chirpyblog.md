@@ -7,9 +7,9 @@ tags: [random,blog]
 
 # Hello!
 
-Trying out Jykell!
+Trying out Jekyll!
 
-Dooing random journaling.
+Doing random journaling.
 
 Maybe some pictures.
 
