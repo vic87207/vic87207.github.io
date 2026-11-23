@@ -1,4 +1,3 @@
-
 ---
 title: First Post From MacBuntu!
 date: 2026-11-22 22:18:55 -500
